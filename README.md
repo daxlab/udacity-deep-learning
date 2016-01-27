@@ -1,2 +1,2 @@
-# udacity-deep-learning
-solutions for udacity deep learning
+# Udacity Deep Learning
+solutions for udacity deep learning by Google
